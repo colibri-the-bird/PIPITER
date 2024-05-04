@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4157936304014691087
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7642897439646845808}
+  m_Layer: 0
+  m_Name: weqfeqferfera
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7642897439646845808
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4157936304014691087}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 532544763056676472}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &4055170430228664243
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7642897439646845808}
+    m_Modifications:
+    - target: {fileID: 492999741775856329, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+      propertyPath: m_TagString
+      value: Uron
+      objectReference: {fileID: 0}
+    - target: {fileID: 591265389256989668, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+      propertyPath: m_TagString
+      value: Uron
+      objectReference: {fileID: 0}
+    - target: {fileID: 2264489538517925424, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+      propertyPath: m_TagString
+      value: Uron
+      objectReference: {fileID: 0}
+    - target: {fileID: 2399977192990910383, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+      propertyPath: m_TagString
+      value: Uron
+      objectReference: {fileID: 0}
+    - target: {fileID: 4022371121613586231, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+      propertyPath: m_TagString
+      value: Uron
+      objectReference: {fileID: 0}
+    - target: {fileID: 4456236111631227127, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+      propertyPath: m_TagString
+      value: Uron
+      objectReference: {fileID: 0}
+    - target: {fileID: 4550085495376204235, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4550085495376204235, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4550085495376204235, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4550085495376204235, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4550085495376204235, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4550085495376204235, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4550085495376204235, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4550085495376204235, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4550085495376204235, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 4550085495376204235, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5055169606500983275, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+      propertyPath: m_TagString
+      value: Uron
+      objectReference: {fileID: 0}
+    - target: {fileID: 5350641746938925884, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+      propertyPath: m_TagString
+      value: Uron
+      objectReference: {fileID: 0}
+    - target: {fileID: 5367858629010679796, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+      propertyPath: m_TagString
+      value: Uron
+      objectReference: {fileID: 0}
+    - target: {fileID: 5727616345985746610, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+      propertyPath: m_TagString
+      value: Uron
+      objectReference: {fileID: 0}
+    - target: {fileID: 6079319676964143857, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+      propertyPath: m_TagString
+      value: Uron
+      objectReference: {fileID: 0}
+    - target: {fileID: 7804149300957465872, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+      propertyPath: m_TagString
+      value: Uron
+      objectReference: {fileID: 0}
+    - target: {fileID: 8126489528383948189, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+      propertyPath: m_Name
+      value: Room Basic Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8126489528383948189, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+      propertyPath: m_TagString
+      value: Uron
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+--- !u!4 &532544763056676472 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4550085495376204235, guid: 44aa45c21874d71428ae5231f71f2a18, type: 3}
+  m_PrefabInstance: {fileID: 4055170430228664243}
+  m_PrefabAsset: {fileID: 0}
