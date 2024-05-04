@@ -9,11 +9,11 @@ public class Spawnlevel : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        s_coord += 5 + spawnlevel[0].transform.localScale.z/2;
+        s_coord += 5 + 175/2f;
         for (int i = 0; i < 10; i++) 
         {
-            Instantiate(spawnlevel[Random.Range(0, 10)], new Vector3(0, 0, s_coord), Quaternion.identity);
-            s_coord += spawnlevel[0].transform.localScale.z;
+            Instantiate(spawnlevel[Random.Range(0, spawnlevel.Length)], new Vector3(-5, -14, s_coord), Quaternion.identity);
+            s_coord += 175;
         }
     }
 }
