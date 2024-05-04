@@ -37,10 +37,10 @@ public class Move : MonoBehaviour
         if (Mathf.Abs(R1.x) < 0.1) R1.x = 0;
         if (Mathf.Abs(R1.y) < 0.1) R1.y = 0;
         speed += R1.y * Time.deltaTime;
-        if (speed > 10) speed = 10;
-        if (speed < -10) speed = -10;
+        if (speed > 3) speed = 3;
+        if (speed < -3) speed = -3;
         Rover.transform.position += Time.deltaTime * Rover.transform.forward * speed;
         Rover.transform.rotation *= Quaternion.Euler(0, R1.x * speed * 15 * Time.deltaTime, 0);
-        vila.transform.localPosition = new Vector3(0, R2, 0);
+        vila.transform.localPosition = new Vector3(0, 20*R2, 0);
     }
 }
